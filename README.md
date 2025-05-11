@@ -4,16 +4,7 @@ This is a simple patient management application built with **Spring Boot**, **H2
 
 
 ##  Project Structure
-src/
-└── main/
-├── java/ma/fs/tp2/
-│ ├── entities/ # Contains Patient entity
-│ ├── repository/ # Contains JpaRepository interface
-│ ├── service/ # Contains Service interface and implementation
-│ ├── web/ # REST Controller
-│ └── Tp2Application.java # Main Spring Boot application
-└── resources/
-└── application.properties
+![Project Structure](./img_1.png) 
 
 
 ##  Features
