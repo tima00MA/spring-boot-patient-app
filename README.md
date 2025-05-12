@@ -4,8 +4,8 @@ This is a simple patient management application built with **Spring Boot**, **H2
 
 
 ##  Project Structure
-![Project Structure](./img_1.png) 
 
+<img alt="Project Structure" height="224" src="C:\Users\HP\Documents\Master\M2\Systems Distribues\TP\PROJET\TP2\images\img_1.png" width="224"/>
 
 ##  Features
 
@@ -46,7 +46,8 @@ This is a simple patient management application built with **Spring Boot**, **H2
 ---
 
 ## Sample Data (in `Tp2Application.java`)
-![Patient Project Screenshot](img.png)
+
+<img alt="Patient Project Screenshot" height="224" src="C:\Users\HP\Documents\Master\M2\Systems Distribues\TP\PROJET\TP2\images\img.png" width="224"/>
 
 
 ## How to Run
